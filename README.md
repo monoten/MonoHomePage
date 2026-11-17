@@ -8,17 +8,17 @@ If you save MonoHomePage locally, don't move or rename the folder after you star
 
 # Data privacy
 The page only contacts:
-- Open-Meteo: weather and place search.
-- Buienradar: rain chart.
-- ipwho.is / geojs.io: automatic location from your internet address, if you use it.
+- Open-Meteo: weather and place search
+- Buienradar: rain chart
+- ipwho.is / geojs.io: automatic location from your internet address, if you use it
 - Each bookmarked site for its icon. The background image's website. The search engine you search with. A Googlefont link if added.
 
 # Credits and third-party licences
-- Nullboard by Alexander Pankratov / swapped.ch -> 2-clause BSD licence with the Commons Clause condition, see the [Nullboard licence]([nullboard/LICENSE](https://github.com/apankrat/nullboard/blob/master/LICENSE). Modified for MonoHomePage. Nullboard can't be sold, so neither can (or should) this bundle
+- Nullboard by Alexander Pankratov (swapped.ch) -> 2-clause BSD licence with the Commons Clause condition, see the [Nullboard licence](https://github.com/apankrat/nullboard/blob/master/LICENSE)
 - Fonts in nullboard/extras/: Montserrat, Nunito Sans, Open Sans, Barlow, IBM Plex Sans, Maven Pro -> SIL Open Font License 1.1
 - jQuery 3.6.0 (used by Nullboard) -> MIT licence
 - Colour filter code from Stack Overflow -> CC BY-SA 4.0
-- Weather data by Open-Meteo -> CC BY 4.0; rain forecast by Buienradar
+- Weather data by Open-Meteo -> CC BY 4.0; rain forecast by Buienradar.
 
 # Licence
 MonoHomePage's own code: MIT licence. 
